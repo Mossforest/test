@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "Hello! Please give me a number\n" << endl;
+    cout << "Hello! Please give me a number\n" ;
     cin >> a;
     cout << "You give me " << a << ", right?\n";
     if (a == 4) {
